@@ -1,0 +1,15 @@
+PersonID,Time,ORG,ORGNAME,ACT,MODE,DEST,DESTNAME,TT,TC
+1,7:00,1,home,home,stay,1,home,0,0
+1,7:50,1,home,work,car,3,work,15,4
+1,8:05,3,work,work,stay,3,work,0,0
+1,9:30,3,work,shop,car,5,shop,15,4
+1,9:45,5,shop,shop,stay,5,shop,0,0
+1,12:00,5,shop,home,car,1,home,25,6
+1,12:25,1,home,home,stay,1,home,0,0
+2,7:00,2,home,home,stay,2,home,0,0
+2,8:20,2,home,work,walk,4,work,30,0
+2,8:50,4,work,work,stay,4,work,0,0
+2,11:00,4,work,shop,walk,6,shop,30,0
+2,11:30,6,shop,shop,stay,6,shop,0,0
+2,11:45,6,shop,home,walk,2,home,60,0
+2,12:45,2,home,home,stay,2,home,0,0
